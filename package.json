@@ -1,0 +1,30 @@
+{
+  "name": "eslint-html-pretty-reporter",
+  "version": "0.1.1",
+  "description": "An HTML reporter for ESLint using Hairballs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonheyer/eslint-pretty-html-formatter.git"
+  },
+  "keywords": [
+    "eslint",
+    "reporter",
+    "html",
+    "code",
+    "quality"
+  ],
+  "author": "Brandon Heyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonheyer/eslint-html-pretty-reporter/issues"
+  },
+  "homepage": "https://github.com/brandonheyer/eslint-html-pretty-reporter#readme",
+  "dependencies": {
+    "hairballs": "^0.1.1",
+    "lodash": "^4.15.0"
+  }
+}
